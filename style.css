@@ -30,7 +30,19 @@ body {
     margin: 5px 5px 24px 5px;
     width: 100%;
     padding-left: 10px;
+    padding-bottom: 10px;
     border: 1px solid #191919;
+}
+
+.running-total {
+    position: relative;
+    top: -45px;
+    left: 5px;
+    height: 25px;
+    font-size: 16px;
+    font-weight: 400;
+    width: 100%;
+    color: #404040;
 }
 
 .buttons {
